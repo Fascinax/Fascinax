@@ -43,14 +43,3 @@
 
 ### 🌐 Contact Me 👇
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/océan-raza/)
-
-<!--
-⚠️ NOTE:
-This special repository **Fascinax/Fascinax** generates your GitHub profile README.
-Customize fields like [Your Company], [Your School], links, badge colors, etc.
-
-💡 Tips:
-- Add a banner or animated GIF at the top for more personality.
-- Use GitHub Actions to auto-update stats and blog posts.
-- Avoid overcrowding the page – check performance impact.
--->
