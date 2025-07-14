@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </p>
 
-<h1 align="center">Salut&nbsp;👋&nbsp;c'est Fascinax</h1>
+<h1 align="center">Salut,&nbsp;👋&nbsp;c'est Fascinax !</h1>
 <h3 align="center">Étudiant‑ingénieur en informatique (apprentissage)</h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ### 🧑‍💻 À propos
 <!-- Start About -->
 - 🎓 **Alternance Full-stack** @ **<em>[Monaco Telecom]</em>** & étudiant à **Polytech Nice Sophia** (promo 2025).
-- 🛠️ Auteur de **[Conflixity](https://github.com/Fascinax/Conflixity)** : assistant Rust + LLM qui résout les conflits Git en local.
+- 🛠️ Travaille en ce moment sur **[Conflixity](https://github.com/Fascinax/Conflixity)** : assistant Rust + LLM qui résout les conflits Git en local.
 - 🤖 Passionné par les LLM et l'actu AI & la productivité dev.
 <!-- End About -->
 
@@ -28,6 +28,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
