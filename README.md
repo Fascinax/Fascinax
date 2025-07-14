@@ -36,9 +36,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&theme=default&hide_border=true" alt="GitHub stats for Fascinax over 12 months"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=10" alt="Most used languages by Fascinax"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true" alt="GitHub contribution streak by Fascinax"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&theme=default&hide_border=true&cache_bust={{TIMESTAMP}}" alt="GitHub stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=10&cache_bust={{TIMESTAMP}}" alt="Languages used"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true&cache_bust={{TIMESTAMP}}" alt="Contribution streak"/>
 </div>
 
 ### 🌐 Contact Me 👇
