@@ -19,9 +19,23 @@
 ### 🧑‍💻 About Me
 <!-- Start About -->
 - 🎓 **Full-stack apprenticeship** @**<em>Monaco Telecom</em>**, and currently studying at **Polytech Nice Sophia** (Class of 2025).
-- 🛠️ Currently working on **[Conflixity](https://github.com/Fascinax/Conflixity)**: a Rust + LLM assistant that resolves Git conflicts locally.
 - 🤖 Passionate about LLMs, and agentic AI, and dev productivity.
 <!-- End About -->
+
+### 🎯 Highlighted Projects
+<table> <tr> <td valign="top" width="50%">
+🛠️ <strong><a href="https://github.com/Fascinax/Conflixity">Conflixity</a></strong> <em>[WIP]</em><br>
+<em>Rust + LLM-powered Git conflict resolver</em><br>
+
+<ul> <li>Local agent to solve merge conflicts intelligently using LLMs</li> <li>Rust-based CLI with custom prompts and local embedding store</li> <li>Aims to automate multi-branch conflict resolutions</li> </ul> </td> <td valign="top" width="50%">
+⚙️ <strong><a href="https://github.com/Fascinax/Turbotilt">Turbotilt</a></strong> <em>[WIP]</em><br>
+<em>CLI tool to launch Java microservices with Docker + Tilt</em><br>
+
+<ul> <li>Detects Spring Boot, Quarkus, JDK version automatically</li> <li>Generates all orchestration files on the fly</li> <li>Aims to simplify local dev for distributed systems</li> </ul> </td> </tr> <tr> <td colspan="2">
+🎲 <strong><a href="https://github.com/Oceanraza/projet2-ps-23-24-citadels-2024-e">Citadels 2024</a></strong><br>
+<em>Java-based version of the board game Citadels</em><br>
+
+<ul> <li>Basic MVC design with robust game logic</li> <li>CLI and JavaFX GUI support</li> <li>Features AI players and full test coverage</li> </ul> </td> </tr> </table>
 
 ### 🔧 Tech Stack & Tools
 
@@ -41,5 +55,5 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true&cache_bust={{TIMESTAMP}}" alt="Contribution streak"/>
 </div>
 
-### 🌐 Contact Me 👇
+### 🌐 Reach Me 👇
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/océan-raza/)
