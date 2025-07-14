@@ -1,29 +1,29 @@
 <!-- GitHub Profile README for Fascinax -->
-<!-- Banner personnalisé (remplace l’URL par ton image ou GIF) -->
+<!-- Custom banner (replace the URL with your own image or GIF) -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </p>
 
-<h1 align="center">Salut,&nbsp;👋&nbsp;c'est Fascinax !</h1>
-<h3 align="center">Étudiant‑ingénieur en informatique (apprentissage)</h3>
+<h1 align="center">Hi,&nbsp;👋&nbsp;I'm Fascinax!</h1>
+<h3 align="center">Computer Science Engineering Student (Work-Study)</h3>
 
 <p align="center">
   <!-- GitHub Stats badge toggle link -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://img.shields.io/badge/GitHub%20Stats-Enabled-success?logo=github" alt="Lien vers GitHub‑Readme‑Stats"/>
+    <img src="https://img.shields.io/badge/GitHub%20Stats-Enabled-success?logo=github" alt="Link to GitHub‑Readme‑Stats"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 À propos
+### 🧑‍💻 About Me
 <!-- Start About -->
-- 🎓 **Alternance Full-stack** @ **<em>[Monaco Telecom]</em>** & étudiant à **Polytech Nice Sophia** (promo 2025).
-- 🛠️ Travaille en ce moment sur **[Conflixity](https://github.com/Fascinax/Conflixity)** : assistant Rust + LLM qui résout les conflits Git en local.
-- 🤖 Passionné par les LLM et l'actu AI & la productivité dev.
+- 🎓 **Full-stack apprenticeship** @**<em>Monaco Telecom</em>**, and currently studying at **Polytech Nice Sophia** (Class of 2025).
+- 🛠️ Currently working on **[Conflixity](https://github.com/Fascinax/Conflixity)**: a Rust + LLM assistant that resolves Git conflicts locally.
+- 🤖 Passionate about LLMs, and agentic AI, and dev productivity.
 <!-- End About -->
 
-### 🔧 Stack & Outils
+### 🔧 Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -34,22 +34,23 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&theme=default&hide_border=true" alt="Statistiques GitHub pour Fascinax sur 12 mois"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=10" alt="Langages les plus utilisés par Fascinax"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true" alt="Séquence de contributions GitHub de Fascinax"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&theme=default&hide_border=true" alt="GitHub stats for Fascinax over 12 months"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=10" alt="Most used languages by Fascinax"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true" alt="GitHub contribution streak by Fascinax"/>
 </div>
 
+### 🌐 Contact Me 👇🏽
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/océan-raza/)
 
 <!--
-⚠️ REMARQUE :
-Ce dépôt spécial **Fascinax/Fascinax** génère le README de votre profil GitHub.
-Personnalisez les champs [Votre Entreprise], [Votre École], etc., liens, couleurs de badges.
+⚠️ NOTE:
+This special repository **Fascinax/Fascinax** generates your GitHub profile README.
+Customize fields like [Your Company], [Your School], links, badge colors, etc.
 
-💡 Suggestions :
-- Ajoutez une bannière ou GIF animé en haut pour plus de personnalité.
-- Utilisez GitHub Actions pour mettre à jour automatiquement les stats et les posts de blog.
-- Évitez de surcharger la page – testez la performance.
+💡 Tips:
+- Add a banner or animated GIF at the top for more personality.
+- Use GitHub Actions to auto-update stats and blog posts.
+- Avoid overcrowding the page – check performance impact.
 -->
