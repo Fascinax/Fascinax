@@ -41,7 +41,7 @@
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Fascinax&hide_border=true" alt="GitHub contribution streak by Fascinax"/>
 </div>
 
-### 🌐 Contact Me 👇🏽
+### 🌐 Contact Me 👇
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/océan-raza/)
 
 <!--
