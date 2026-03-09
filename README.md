@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Animated banner">
 </p>
 
-<h1 align="center">Hi, I'm Fascinax 👋</h1>
+<h1 align="center">Hi, I'm Fascinax <img src="https://skillicons.dev/icons?i=github" height="32" align="center"/></h1>
 <h3 align="center">Software engineer building AI developer tools, agent workflows, and reliable LLM products</h3>
 
 <p align="center">
@@ -18,13 +18,13 @@
 
 ---
 
-## 🚀 Selected Projects
+## <img src="https://skillicons.dev/icons?i=npm" height="24" align="center"/> Selected Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [Inspectra](https://github.com/Fascinax/Inspectra)
+### <img src="https://skillicons.dev/icons?i=ts" height="18" align="center"/> [Inspectra](https://github.com/Fascinax/Inspectra)
 **Multi-agent code audit system** — MCP + GitHub Copilot Custom Agents
 
 Coordinates 12 specialized audit agents (security, architecture, tests, perf, docs…) and ships as an npm package with setups for Copilot, Claude Code, and Codex. 650+ passing tests.
@@ -38,7 +38,7 @@ Coordinates 12 specialized audit agents (security, architecture, tests, perf, do
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ [Veridicta](https://github.com/Fascinax/Veridicta)
+### <img src="https://skillicons.dev/icons?i=python" height="18" align="center"/> [Veridicta](https://github.com/Fascinax/Veridicta)
 **RAG assistant for explainable legal answers** — BM25 + FAISS + evaluation loop
 
 Hybrid retrieval with 100% citation faithfulness on a gold-standard benchmark. Built for traceable, production-minded output — not a demo.
@@ -54,7 +54,7 @@ Hybrid retrieval with 100% citation faithfulness on a gold-standard benchmark. B
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 [clean-code-skills](https://github.com/Fascinax/clean-code-skills)
+### <img src="https://skillicons.dev/icons?i=githubactions" height="18" align="center"/> [clean-code-skills](https://github.com/Fascinax/clean-code-skills)
 **Agent skills to enforce clean code** — 7 languages, 50+ rules
 
 Encodes Robert Martin's Clean Code catalog for AI coding agents in Python, Java, TypeScript, JavaScript, Go, Rust, and C#. Keeps generated code maintainable, not just functional.
@@ -67,7 +67,7 @@ Encodes Robert Martin's Clean Code catalog for AI coding agents in Python, Java,
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [noesis-zc](https://github.com/Fascinax/noesis-zc)
+### <img src="https://skillicons.dev/icons?i=nextjs" height="18" align="center"/> [noesis-zc](https://github.com/Fascinax/noesis-zc)
 **Full-stack knowledge mapping** — AI quizzes + cognitive graph
 
 Interactive D3.js concept graph, AI-generated quizzes with competency radar, Supabase auth and persistence, Playwright E2E coverage.
@@ -84,32 +84,46 @@ Interactive D3.js concept graph, AI-generated quizzes with competency radar, Sup
 
 ---
 
-## 🏢 Enterprise work
+## <img src="https://skillicons.dev/icons?i=gitlab" height="24" align="center"/> Enterprise Work
 
-Professional projects I can't reference directly. On those I worked on AI-assisted E2E and API test generation, self-healing Playwright pipelines, CI-integrated patch validation, and developer tooling — across Python, TypeScript, and Quarkus ecosystems.
+> Professional projects at Monaco Telecom that I can't reference publicly — but the work is concrete.
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=playwright" height="40"/><br/>
+<strong>E2E Test Generation</strong><br/>
+<sub>AI-generated Playwright specs from live web exploration, with Page Object Model and auto-correction</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python" height="40"/><br/>
+<strong>API Test Generation</strong><br/>
+<sub>QuarkusTest + Karate suites generated from OpenAPI specs via LLM pipeline</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=githubactions" height="40"/><br/>
+<strong>Self-Healing Pipelines</strong><br/>
+<sub>Failure classification, LLM patch generation, syntax validation & automatic MR delivery</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker" height="40"/><br/>
+<strong>Dev Tooling & CI/CD</strong><br/>
+<sub>GitLab CI templates, developer tools, and automation for distributed Java microservices</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔧 Tech
+## <img src="https://skillicons.dev/icons?i=vscode" height="24" align="center"/> Tech
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=ts,python,java,rust,nodejs,nextjs,fastapi,playwright,docker,postgres"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://skillicons.dev/icons?i=github" height="24" align="center"/> GitHub Stats
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
