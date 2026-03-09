@@ -126,8 +126,8 @@ Interactive D3.js concept graph, AI-generated quizzes with competency radar, Sup
 ## <img src="https://skillicons.dev/icons?i=github" height="24" align="center"/> GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fascinax&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fascinax&layout=compact&hide_border=true&langs_count=8&theme=transparent&hide=html,css" alt="Top languages"/>
 </div>
 
 ---
