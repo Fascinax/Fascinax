@@ -24,7 +24,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:middle;color:#3178C6"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/></svg> Inspectra <sub>(private)</sub>
+### <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline-block;vertical-align:middle;color:#3178C6"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10"/></svg> [Inspectra](https://github.com/Fascinax/Inspectra) 
 **Multi-agent code audit system** : MCP + GitHub Copilot Custom Agents
 
 Coordinates 12 specialized audit agents (security, architecture, tests, perf, docs…) and ships as an npm package with setups for Copilot, Claude Code, and Codex. 650+ passing tests.
